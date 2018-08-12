@@ -22,7 +22,7 @@ List of bookmarks on data analytics
 * Keras
 * TensorFlow
 
-### Scraping
+### Scraping
 * Requests
 
 ### Web frameworks
