@@ -4,7 +4,11 @@ List of bookmarks on data analytics
 ## Data science in general
 * Blogs
 * Books
-* Data sources
+* Sources
+  * [Awesome datascience](https://github.com/bulutyazilim/awesome-datascience)
+  * [Jonathan Bower - Data science resources](https://github.com/jonathan-bower/DataScienceResources)
+  * [Ju Wu - Data Science resources](https://github.com/chaconnewu/free-data-science-books)
+  * [Awesome machine learning](https://github.com/josephmisiti/awesome-machine-learning)
 
 ## Statistics
 * Descriptive statistics
